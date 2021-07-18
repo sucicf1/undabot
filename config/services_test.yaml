@@ -1,0 +1,4 @@
+services:
+    github_query_test: 
+        alias: github_query
+        public: true
